@@ -9,4 +9,4 @@ The Dataset File has been Uploaded above..
 Abstract overview of the notebook
 This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
-In this Jupyter Notebook I have tried to Exploratory Data Analysis (EDA) with WordClouds and Maps.
+In this Jupyter Notebook I have tried to Exploratory Data Analysis (EDA) with Maps.
